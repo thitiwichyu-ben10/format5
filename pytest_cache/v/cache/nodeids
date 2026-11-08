@@ -1,0 +1,7 @@
+[
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_invalid_generate",
+  "tests/test_quotation.py::test_discount_limit",
+  "tests/test_quotation.py::test_example_schema",
+  "tests/test_quotation.py::test_totals"
+]
